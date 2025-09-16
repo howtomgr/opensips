@@ -1,0 +1,66 @@
+{
+  "category": "sip-servers",
+  "created_date": "2025-09-15T22:48:58.568323",
+  "default_ports": [
+    80,
+    443,
+    2048,
+    5060
+  ],
+  "dependencies": [
+    "opensips-mysql-module"
+  ],
+  "description": "OpenSIPS is a free and open-source SIP Server. Multi-functional SIP server",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/sip-servers/opensips",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/sip-servers/opensips",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.568346",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "opensips",
+  "repository_url": "https://github.com/howtomgr/opensips",
+  "spec_version": "2.0",
+  "subcategory": "sip-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "sip-servers",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "OpenSIPS Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/sip-servers/opensips"
+}
